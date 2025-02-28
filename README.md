@@ -1,7 +1,7 @@
 # Hi there 👋
 ### Welcome to my profile - Afifah Nur Nabila
 
-Mahasiswa Teknik Informatika, Universitas Muhammadiyah Surakarta yang saat ini menempuh semester 5. Memiliki minat dalam web development, desain, dan perhitungan matematis.
+Fresh Graduate Teknik Informatika Universitas Muhammadiyah Surakarta dengan antusiasme yang besar terhadap desain, pengembangan web, pemasaran digital, dan copywriting. 
 
 - 🔭 Afifah Nur Nabila
 - 🌱 Mahasiswa Teknik Informatika, Universitas Muhammadiyah Surakarta
@@ -9,3 +9,4 @@ Mahasiswa Teknik Informatika, Universitas Muhammadiyah Surakarta yang saat ini m
     - Teknologi
     - Desain
     - Seni
+    - Copywriting
